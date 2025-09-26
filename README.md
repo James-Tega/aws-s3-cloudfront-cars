@@ -43,7 +43,7 @@ This project is a static website about cars, built with **HTML** and hosted on *
 ---
 
 ## 📸 Demo Screenshot
-<img width="3838" height="2288" alt="Image" src="https://github.com/user-attachments/assets/0acd2373-041a-46fa-b431-951291b104fd" /> 
+src="https://github.com/user-attachments/assets/0acd2373-041a-46fa-b431-951291b104fd"
 
 ---
 
